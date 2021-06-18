@@ -41,7 +41,7 @@ Recommendation in Alibaba</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Match-Papers/blob/master/m(20).pdf" style="text-decoration:none;">Managing Diversity in Airbnb Search</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Match-Papers/blob/master/m(21).pdf" style="text-decoration:none;">Dense Passage Retrieval for Open-Domain Question Answering</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Match-Papers/blob/master/m(22).pdf" style="text-decoration:none;">ColBERT: Efficient and Eective Passage Search via Contextualized Late Interaction over BERT</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Match-Papers/blob/master/m(22).pdf" style="text-decoration:none;">ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Match-Papers/blob/master/m(23).pdf" style="text-decoration:none;">Learning Robust Models for e-Commerce Product Search</a></li> 
  
 
